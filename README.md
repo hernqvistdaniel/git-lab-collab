@@ -4,9 +4,9 @@ Här förstör vi git.
 
 ## Välkomna!
 
-### Daniel: 
+### Daniel S: 
 #### "He's in the army now"
 
-### Astrid:
+### Astrid S:
 #### "Hon är tung"
 
